@@ -22,7 +22,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceIt/FaceViewController.swift"
@@ -31,6 +31,38 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "8"
             endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceIt.FaceViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FaceIt.FaceViewController"
+                  moduleName = "FaceIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zengqiang/qzeng2016/FaceIt/FaceIt/FaceViewController.swift"
+                  timestampString = "487408193.281455"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceIt.FaceViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceIt.FaceViewController&gt;"
+                  moduleName = "FaceIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zengqiang/qzeng2016/FaceIt/FaceIt/FaceViewController.swift"
+                  timestampString = "487408193.281788"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
