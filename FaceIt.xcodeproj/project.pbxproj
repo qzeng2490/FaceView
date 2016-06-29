@@ -16,6 +16,7 @@
 		D1E1ECDB1D0D134100493B46 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E1ECDA1D0D134100493B46 /* FacialExpression.swift */; };
 		D1E1ECDD1D0F856900493B46 /* EmotionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E1ECDC1D0F856900493B46 /* EmotionsViewController.swift */; };
 		D1E1ED401D23357200493B46 /* BlinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E1ED3F1D23357200493B46 /* BlinkViewController.swift */; };
+		D1E1ED421D2346BE00493B46 /* EyeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E1ED411D2346BE00493B46 /* EyeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		D1E1ECDA1D0D134100493B46 /* FacialExpression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 		D1E1ECDC1D0F856900493B46 /* EmotionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmotionsViewController.swift; sourceTree = "<group>"; };
 		D1E1ED3F1D23357200493B46 /* BlinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlinkViewController.swift; sourceTree = "<group>"; };
+		D1E1ED411D2346BE00493B46 /* EyeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EyeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				D1E1ECDC1D0F856900493B46 /* EmotionsViewController.swift */,
 				D1E1ECD81D0CB73100493B46 /* FaceView.swift */,
 				D1E1ED3F1D23357200493B46 /* BlinkViewController.swift */,
+				D1E1ED411D2346BE00493B46 /* EyeView.swift */,
 			);
 			path = FaceIt;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1E1ED421D2346BE00493B46 /* EyeView.swift in Sources */,
 				D1E1ECC81D0CB69000493B46 /* FaceViewController.swift in Sources */,
 				D1E1ED401D23357200493B46 /* BlinkViewController.swift in Sources */,
 				D1E1ECDB1D0D134100493B46 /* FacialExpression.swift in Sources */,
